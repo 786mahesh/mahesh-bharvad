@@ -1,3 +1,4 @@
+#THIS PROJECT GIVEN MAKE A MARKSHIT
 m=int(input("Enter one subject total marks :"))
 t=m+m+m+m
 print("YOUR TOTAL MARKS:",t)
